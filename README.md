@@ -11,7 +11,21 @@ While completion of the INFS7410 course at UQ, or a similar Information Retrieva
 
 Links to videos:
 
-- 
+- [BERT](https://youtu.be/pkHVCi973Wk)
+- [BERT For Ranking](https://youtu.be/9sf9OCEHISI)
+- [BERT Limitations](https://youtu.be/eamJUeYKUoY)
+- [Handling Length by Scores](https://youtu.be/WgAwAqyERVs)
+- [Handling Length by Representations with PARADE](https://youtu.be/9LZUL5M5cdI)
+- [duoBERT](https://youtu.be/MuPWwAKPNVY)
+- [doc2query](https://youtu.be/pJWK6DztaZg)
+- [DPR](https://youtu.be/qLWa4pxfsiU)
+- [ANCE](https://youtu.be/mT-I9DMiMRo)
+- [RepBERT](https://youtu.be/AKpg3FVUTD8)
+- [CLEAR](https://youtu.be/OB87Af3PPK8)
+- [EPIC](https://youtu.be/6YNldDe1dBk)
+- [DRs Performance](https://youtu.be/oMCJDBs81Og)
+- [TILDE](https://youtu.be/BZCkf2QV07Q)
+- [TILDEv2](https://youtu.be/BSxqIPeeLrU)
 
 Readings:
 
