@@ -49,3 +49,13 @@ Readings:
 5. Participate in a TREC competition (only available for students with GPA >= 6). This includes all aspects of the competition, including creation of the pipeline, baselines, implementation of our methods, result analysis. Competition of interest:
     - [TREC Product Search](https://trec-product-search.github.io/): This competition uses the Amazon Shopping Queries Dataset](https://arxiv.org/abs/2206.06588), which is [publicly available](https://github.com/amazon-science/esci-data). Task 1 (Product Ranking Task): The first task focuses on product ranking. In task we provide an initial ranking of 100 documents from a BM25 baseline and you are expected to re-rank the products in terms of their relevance to the users given intent. The ranking provides a focused task where the candidate sets are fixed and there is no need to implement complex end to end systems which makes experimentation quick and runs easily comparable. Task 2 (Product Retrieval Task): The second task focuses on end to end product retrieval. In task we provide an a large collection of products and participants need to design end to end retrieval systems which leverage whichever information they find relevant/useful. Unlike the ranking task, the focus here is in understanding the interplay between retrieval and reranking systems.
     - [NeuCLIR Track](https://neuclir.github.io/): The track is focused on the application of modern neural computing techniques to cross-language information retrieval. NeuCLIR topics are written in English. NeuCLIR has three target language collections in Chinese, Persian, and Russian.
+
+
+
+
+
+
+
+
+[ITEE Project Database](https://student.eait.uq.edu.au/projects/)
+
