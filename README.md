@@ -57,5 +57,7 @@ Readings:
 
 
 
-[ITEE Project Database](https://student.eait.uq.edu.au/projects/)
+##### Useful Links
+
+- [ITEE Project Database](https://student.eait.uq.edu.au/projects/)
 
