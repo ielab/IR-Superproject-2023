@@ -38,7 +38,7 @@ Readings:
 
 1. Reproduce the paper [Penha, G., Câmara, A. and Hauff, C., 2022, April. Evaluating the robustness of retrieval pipelines with query variation generators. In Advances in Information Retrieval: 44th European Conference on IR Research, ECIR 2022, Stavanger, Norway, April 10–14, 2022, Proceedings, Part I (pp. 397-412). Cham: Springer International Publishing.](https://arxiv.org/pdf/2111.13057).
 
-2. Reproduce the paper [Chen, X., He, B., Hui, K., Sun, L. and Sun, Y., 2023. Dealing with textual noise for robust and effective BERT re-ranking. Information Processing & Management, 60(1), p.103135.](https://www.sciencedirect.com/science/article/pii/S0306457322002369).
+2. Reproduce the paper [Chen, X., Luo, J., He, B., Sun, L., and Sun, Y., 2023. Towards Robust Dense Retrieval via Local Ranking Alignment. Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI-22)](https://www.ijcai.org/proceedings/2022/0275.pdf).
 
 3. Reproduce the paper [Wu, C., Zhang, R., Guo, J., Fan, Y. and Cheng, X., 2022. Are neural ranking models robust?. ACM Transactions on Information Systems, 41(2), pp.1-36.](https://dl.acm.org/doi/pdf/10.1145/3534928).
 
