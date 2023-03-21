@@ -52,7 +52,9 @@ Readings:
 
 
 
+## Activities
 
+* Week 5: [Video: Welcome and Project Proposal Draft Assessment](https://youtu.be/fc0MYSQg1EQ)
 
 
 
