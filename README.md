@@ -54,7 +54,7 @@ Readings:
 
 ## Activities
 
-* Week 5: [Video: Welcome and Project Proposal Draft Assessment](https://youtu.be/fc0MYSQg1EQ)
+* Week 5: [Video: Welcome and Project Proposal Draft Assessment](https://youtu.be/fc0MYSQg1EQ) [(slides)](https://github.com/ielab/IR-Superproject-2023/blob/main/material/week5.pdf)
 
 
 
