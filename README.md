@@ -56,6 +56,7 @@ Readings:
 
 * Week 5: [Video: Welcome and Project Proposal Draft Assessment](https://youtu.be/fc0MYSQg1EQ) [(slides)](https://github.com/ielab/IR-Superproject-2023/blob/main/material/week5.pdf)
 * Week 6: Q/A session on proposal draft [(recording on zoom)](https://uqz.zoom.us/rec/share/fAFFc4hDRMyE3DjlA3T_ItrL8wgIue1kIpH38h5zFhNEchTI0Lo0p_tf6gW0qOSq.6GZwpD_z-f_Oq8ge)
+* Week 6: A Framework for Generating Research Ideas: [slides](), [original course material from Pranav Rajpurkar’s Harvard CS197 course](https://docs.google.com/document/d/15pnUpD47S6mAM-g4fwQvc2klYIb-GKgWex1oOlmNjvg/edit)
 
 
 
