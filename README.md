@@ -66,3 +66,8 @@ Readings:
 
 - [ITEE Project Database](https://student.eait.uq.edu.au/projects/)
 - [Ask questions and see answers through the GitHub issues](https://github.com/ielab/IR-Superproject-2023/issues?q=)
+
+
+## Possible computing infrastacture
+- [UQ Rangpur Cluster](https://student.eait.uq.edu.au/infrastructure/compute/)
+- [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
