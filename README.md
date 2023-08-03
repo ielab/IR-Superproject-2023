@@ -7,33 +7,6 @@ Through this project, you will develop an in-depth understanding of these langua
 While completion of the INFS7410 course at UQ, or a similar Information Retrieval and Web Search course at other universities is desirable, we will provide background information and study material in the initial weeks of the project to allow you to explore these methods in depth. Therefore, if you possess a strong understanding of key artificial intelligence concepts but lack specific information retrieval knowledge, you're still encouraged to undertake this project.
 
 
-## Background material and videos
-
-Links to videos:
-
-- [BERT](https://youtu.be/pkHVCi973Wk)
-- [BERT For Ranking](https://youtu.be/9sf9OCEHISI)
-- [BERT Limitations](https://youtu.be/eamJUeYKUoY)
-- [Handling Length by Scores](https://youtu.be/WgAwAqyERVs)
-- [Handling Length by Representations with PARADE](https://youtu.be/9LZUL5M5cdI)
-- [duoBERT](https://youtu.be/MuPWwAKPNVY)
-- [doc2query](https://youtu.be/pJWK6DztaZg)
-- [DPR](https://youtu.be/qLWa4pxfsiU)
-- [ANCE](https://youtu.be/mT-I9DMiMRo)
-- [RepBERT](https://youtu.be/AKpg3FVUTD8)
-- [CLEAR](https://youtu.be/OB87Af3PPK8)
-- [EPIC](https://youtu.be/6YNldDe1dBk)
-- [DRs Performance](https://youtu.be/oMCJDBs81Og)
-- [TILDE](https://youtu.be/BZCkf2QV07Q)
-- [TILDEv2](https://youtu.be/BSxqIPeeLrU)
-
-Readings:
-
-- [Tonellotto, N., 2022. Lecture Notes on Neural Information Retrieval. arXiv preprint arXiv:2207.13443.](https://arxiv.org/pdf/2207.13443.pdf)
-- [Zhao, W.X., Liu, J., Ren, R. and Wen, J.R., 2022. Dense text retrieval based on pretrained language models: A survey. arXiv preprint arXiv:2211.14876.](https://arxiv.org/pdf/2211.14876)
-
-
-
 ## Project Directions
 
 1. Reproduce the paper [Penha, G., Câmara, A. and Hauff, C., 2022, April. Evaluating the robustness of retrieval pipelines with query variation generators. In Advances in Information Retrieval: 44th European Conference on IR Research, ECIR 2022, Stavanger, Norway, April 10–14, 2022, Proceedings, Part I (pp. 397-412). Cham: Springer International Publishing.](https://arxiv.org/pdf/2111.13057).
@@ -52,7 +25,28 @@ Readings:
 
 
 
-## Activities
+## Activities for Semester 2
+
+| Week | Meeting Date (every Wed 2-4pm) | Deliverables on this week                                                                                      | Meeting activity                                  | Work plan                                                                                                          | Due                                     |
+|------|--------------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+|    1 |                                |                                                                                                                |                                                   |                                                                                                                    |                                         |
+|    2 |                                |                                                                                                                |                                                   | read related works; get familiar with your experimental environments (e.g. computation resources, datasets, code)  |                                         |
+|    3 |                          Aug 9 |                                                                                                                | check up meetings                                 | read related works; get familiar with your experimental environments (e.g. computation resources, datasets, code)  |                                         |
+|    4 |                                | [writing] Have a draft for related work chapter of the thesis                                                  | no meeting                                        | write related work chapter and submit the draft to the teaching team; start investigating your project             |                                         |
+|    5 |                         Aug 23 | [slides] Make slides to show your plans for related methods and experiment settings before this week's meeting | meeting for feedback on the experiment plans      | make slides for your research plan (i.e. related methods and experiment settings); start experimentation           |                                         |
+|    6 |                         Aug 30 |                                                                                                                | QA                                                | experimentation                                                                                                    |                                         |
+|    7 |                          Sep 6 |                                                                                                                | feedbacks on the related work chapter             | experimentation; and modify the related work chapter based on feedbacks                                            |                                         |
+|    8 |                         Sep 13 | [writings] Have a skeleton for conference paper (master only)                                                  | feedbacks on paper skeleton                       | draft skeleton based on current results and plans; experimentation                                                 |                                         |
+|    9 |                         Sep 20 |                                                                                                                | QA                                                | experimentation                                                                                                    |                                         |
+|   10 |                          Oct 4 | [slides] Make slides to show all experiment results by now                                                     | feedbacks and discussion about experiment results | make slides for current experiment results (figures and tables that will be used in your paper or thesis)          |                                         |
+|   11 |                         Oct 11 |                                                                                                                | feedback on paper draft                           | (masters only) write conference paper and submit                                                                   | Oct 12: conference paper (masters only) |
+|   12 |                         Oct 18 |                                                                                                                | feedback on posters                               | work on posters and submit                                                                                         | Oct 20: poster&demonstration            |
+|   13 |                         Oct 25 |                                                                                                                | feedback on thesis draft                          | thesis draft                                                                                                       |                                         |
+|      |                                |                                                                                                                |                                                   |                                                                                                                    | Nov 6: thesis report                    |
+
+
+
+## Activities for Semester 1
 
 * Week 5: [Video: Welcome and Project Proposal Draft Assessment](https://youtu.be/fc0MYSQg1EQ) [(slides)](https://github.com/ielab/IR-Superproject-2023/blob/main/material/week5.pdf)
 * Week 6: Q/A session on proposal draft [(recording on zoom)](https://uqz.zoom.us/rec/share/fAFFc4hDRMyE3DjlA3T_ItrL8wgIue1kIpH38h5zFhNEchTI0Lo0p_tf6gW0qOSq.6GZwpD_z-f_Oq8ge)
@@ -71,3 +65,23 @@ Readings:
 ## Possible computing infrastacture
 - [UQ Rangpur Cluster](https://student.eait.uq.edu.au/infrastructure/compute/)
 - [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
+
+
+## Background material and videos
+
+Links to videos:
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- | 
+| [BERT](https://youtu.be/pkHVCi973Wk)| [BERT For Ranking](https://youtu.be/9sf9OCEHISI)|[BERT Limitations](https://youtu.be/eamJUeYKUoY)|[Handling Length by Scores](https://youtu.be/WgAwAqyERVs)|[Handling Length by Representations with PARADE](https://youtu.be/9LZUL5M5cdI)|
+|[duoBERT](https://youtu.be/MuPWwAKPNVY)|[doc2query](https://youtu.be/pJWK6DztaZg)|[DPR](https://youtu.be/qLWa4pxfsiU)|[ANCE](https://youtu.be/mT-I9DMiMRo)|[RepBERT](https://youtu.be/AKpg3FVUTD8)|
+|[CLEAR](https://youtu.be/OB87Af3PPK8)|[EPIC](https://youtu.be/6YNldDe1dBk)|[DRs Performance](https://youtu.be/oMCJDBs81Og)|[TILDE](https://youtu.be/BZCkf2QV07Q)|[TILDEv2](https://youtu.be/BSxqIPeeLrU)
+
+Readings:
+
+- [Tonellotto, N., 2022. Lecture Notes on Neural Information Retrieval. arXiv preprint arXiv:2207.13443.](https://arxiv.org/pdf/2207.13443.pdf)
+- [Zhao, W.X., Liu, J., Ren, R. and Wen, J.R., 2022. Dense text retrieval based on pretrained language models: A survey. arXiv preprint arXiv:2211.14876.](https://arxiv.org/pdf/2211.14876)
+
+
+
+
